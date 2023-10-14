@@ -35,3 +35,6 @@
 /Xakml.Common.Extensions/Xakml.Common.Extensions/obj
 /Xakml.Common.Extensions/Xakml.Common.Extensions/bin
 /Xakml.Common.Extensions/.vs
+/Xakml.Common.Toolkit/obj
+/Xakml.Common.Toolkit/bin
+/.vs
