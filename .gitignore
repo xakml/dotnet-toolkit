@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/Xakml.Common.Extensions/Xakml.Common.Toolkit/obj
+/Xakml.Common.Extensions/Xakml.Common.Toolkit/bin
+/Xakml.Common.Extensions/Xakml.Common.Extensions/obj
+/Xakml.Common.Extensions/Xakml.Common.Extensions/bin
+/Xakml.Common.Extensions/.vs
